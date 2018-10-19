@@ -1,20 +1,40 @@
 #bg{
-    background-color: rgb(198, 37, 37);
+    background-color: #5371C1;
 }
 .navbar-custom{
-    color: rgb(221, 75, 75);
-    background-color: rgb(160, 17, 17);
-    margin-bottom: 50px;
+    color: #C5CCE0;
+    background-color: #283046;
+    margin-bottom: 25px;
 }
 
-#project-jumbo{
-    color: rgb(255, 126, 126);
-    background-color: rgb(120, 0, 0);
-    margin-right: 25px;
+.block-custom{
+    color: #C5CCE0;
+    background-color: #283046 !important;
+    margin: 25px;
+    font-family: "Helvetica Neu", Helvetica, Arial, sans-serif;
+}
+#about-me{
+    font-size: 20px;
 }
 
 #contact-info{
-    color: rgb(255, 126, 126);
-    background-color: rgb(120, 0, 0);
-    margin-left: 25px;
+    font-size: 20px;
+}
+
+#headshot{
+    margin: 25px;
+    padding: 25px;
+    background-color: #283046;
+    border-radius: 5px;
+}
+
+.project{
+    font-size: 18px;
+}
+
+.zoom {
+    transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(1.15);
 }
