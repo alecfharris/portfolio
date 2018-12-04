@@ -17,8 +17,23 @@
     font-size: 20px;
 }
 
+#project-jumbo{
+    height: 755px;
+    overflow: auto;
+}
+
 #contact-info{
     font-size: 20px;
+    height: 275px;
+}
+
+#technologies{
+    font-size: 20px;
+    height: 450px;
+}
+
+#tech-list{
+    line-height: 200%;
 }
 
 #headshot{
