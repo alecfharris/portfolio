@@ -15,6 +15,7 @@
 }
 #about-me{
     font-size: 20px;
+    height: 250px;
 }
 
 #project-jumbo{
@@ -41,6 +42,7 @@
     padding: 25px;
     background-color: #292929;
     border-radius: 5px;
+    height: 250px;
 }
 
 .project{
