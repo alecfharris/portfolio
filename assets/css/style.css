@@ -16,6 +16,7 @@
 #about-me{
     font-size: 20px;
     height: 250px;
+    overflow: auto;
 }
 
 #project-jumbo{
@@ -31,6 +32,7 @@
 #technologies{
     font-size: 20px;
     height: 450px;
+    overflow: auto;
 }
 
 #tech-list{
